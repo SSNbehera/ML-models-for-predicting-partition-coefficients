@@ -1,0 +1,694 @@
+# Type; Identifier; Name; SMILES; Exp logD
+Training; mobley_1019269;  butan-1-ol; CCCCO; 0.88
+Training; mobley_1075836;  methyl propanoate; CCC(=O)OC; 0.82
+Training; mobley_1107178;  iodoethane; CCI; 2.0
+Training; mobley_1144156;  ethoxyethane; CCOCC; 0.89
+Training; mobley_1231151;  2-chloropropane; CC(C)Cl; 1.9
+Training; mobley_1261349;  neopentane; CC(C)(C)C; 3.11
+Training; mobley_1323538;  triethylphosphate; CCOP(=O)(OCC)OCC; 0.8
+Training; mobley_1328465;  1,1,2-trichloroethane; C(C(Cl)Cl)Cl; 1.89
+Training; mobley_1424265;  m-xylene; Cc1cccc(c1)C; 3.2
+Training; mobley_1636752;  methanol; CO; -0.74
+Training; mobley_1650157;  2-methylpropan-2-ol; CC(C)(C)O; 0.35
+Training; mobley_1662128;  but-1-ene; CCC=C; 2.4
+Training; mobley_1674094;  hex-1-yne; CCCCC#C; 2.73
+Training; mobley_1717215;  methyl formate; COC=O; -0.26
+Training; mobley_1733799;  4-bromophenol; c1cc(ccc1O)Br; 2.59
+Training; mobley_1735893;  hexanoic acid; CCCCCC(=O)O; 1.92
+Training; mobley_186894;  propanethiol; CCCS; 1.81
+Training; mobley_1873346;  toluene; Cc1ccccc1; 2.73
+Training; mobley_1875719;  pentan-3-one; CCC(=O)CC; 0.82
+Training; mobley_1881249;  pentan-2-one; CCCC(=O)C; 0.91
+Training; mobley_1923244;  n-butane; CCCC; 2.89
+Training; mobley_1952272;  nitromethane; C[N+](=O)[O-]; -0.35
+Training; mobley_1977493;  1-chloropropane; CCCCl; 2.04
+Training; mobley_2008055;  ethane; CC; 1.81
+Training; mobley_20524;  phenol; c1ccc(cc1)O; 1.46
+Training; mobley_2068538;  propane; CCC; 2.36
+Training; mobley_2198613;  chloroethane; CCCl; 1.43
+Training; mobley_2295058;  methyl paraben; COC(=O)c1ccc(cc1)O; 1.96
+Training; mobley_2310185;  ethanol; CCO; -0.3
+Training; mobley_2341732;  methyl pentanoate; CCCCC(=O)OC; 1.96
+Training; mobley_2364370;  butyl acetate; CCCCOC(=O)C; 1.78
+Training; mobley_2410897;  ethanamine; CCN; -0.13
+Training; mobley_2422586;  1-methoxypropane; CCCOC; 1.21
+Training; mobley_2451097;  benzonitrile; c1ccc(cc1)C#N; 1.56
+Training; mobley_2487143;  hexan-2-one; CCCCC(=O)C; 1.38
+Training; mobley_2489709;  1,2-dichlorobenzene; c1ccc(c(c1)Cl)Cl; 3.43
+Training; mobley_2689721;  cyclohexane; C1CCCCC1; 3.44
+Training; mobley_2763835;  ethoxybenzene; CCOc1ccccc1; 2.51
+Training; mobley_2784376;  cyclopropane; C1CC1; 1.72
+Training; mobley_2802855;  1-bromobutane; CCCCBr; 2.75
+Training; mobley_282648;  naphthalene; c1ccc2ccccc2c1; 3.3
+Training; mobley_2837389;  pyrrole; c1cc[nH]c1; 0.75
+Training; mobley_2925352;  p-cresol; Cc1ccc(cc1)O; 1.97
+Training; mobley_2958326;  N-propylpropan-1-amine; CCCNCCC; 1.53
+Training; mobley_2972906;  thiophene; c1ccsc1; 1.81
+Training; mobley_299266;  2-methylprop-1-ene; CC(=C)C; 2.34
+Training; mobley_2996632;  chloroform; C(Cl)(Cl)Cl; 1.97
+Training; mobley_3006808;  2,2,2-trifluoroethanol; C(C(F)(F)F)O; 0.41
+Training; mobley_303222;  prop-1-ene; CC=C; 1.77
+Training; mobley_3034976;  acetic acid; CC(=O)O; -0.17
+Training; mobley_3053621;  benzene; c1ccccc1; 2.13
+Training; mobley_313406;  propan-1-ol; CCCO; 0.25
+Training; mobley_3167746;  octane; CCCCCCCC; 5.15
+Training; mobley_3234716;  p-xylene; Cc1ccc(cc1)C; 3.15
+Training; mobley_3395921;  tetrahydropyran; C1CCOCC1; 0.95
+Training; mobley_3398536;  iodobenzene; c1ccc(cc1)I; 3.25
+Training; mobley_3546460;  hexan-1-ol; CCCCCCO; 2.03
+Training; mobley_3573480;  heptan-2-one; CCCCCC(=O)C; 1.98
+Training; mobley_36119;  octan-1-ol; CCCCCCCCO; 3.07
+Training; mobley_3738859;  1-bromo-pentane; CCCCCBr; 3.37
+Training; mobley_3761215;  1,1,1-trichloroethane; CC(Cl)(Cl)Cl; 2.49
+Training; mobley_3762186;  dichloromethane; C(Cl)Cl; 1.25
+Training; mobley_3968043;  cyclopentanone; C1CCC(=O)C1; 0.38
+Training; mobley_3968739;  methyl benzoate; COC(=O)c1ccccc1; 2.12
+Training; mobley_3969312;  benzaldehyde; c1ccc(cc1)C=O; 1.48
+Training; mobley_3982371;  methyl acetate; CC(=O)OC; 0.18
+Training; mobley_4035953;  o-cresol; Cc1ccccc1O; 1.98
+Training; mobley_4193752;  nitrobenzene; c1ccc(cc1)[N+](=O)[O-]; 1.85
+Training; mobley_4305650;  propanenitrile; CCC#N; 0.16
+Training; mobley_4364398;  iodomethane; CI; 1.51
+Training; mobley_4465023;  (Z)-1,2-dichloroethylene; C(=C\Cl)\Cl; 1.86
+Training; mobley_4483973;  fluorobenzene; c1ccc(cc1)F; 2.27
+Training; mobley_4506634;  2-bromo-2-chloro-1,1,1-trifluoro-ethane; [C@@H](C(F)(F)F)(Cl)Br; 2.3
+Training; mobley_4553008;  1,4-dichlorobenzene; c1cc(ccc1Cl)Cl; 3.44
+Training; mobley_4792268;  pentanoic acid; CCCCC(=O)O; 1.39
+Training; mobley_4845722;  hexachlorobenzene; c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl; 5.37
+Training; mobley_5079234;  heptan-1-ol; CCCCCCCO; 2.72
+Training; mobley_511661;  butadiene; C=CC=C; 1.99
+Training; mobley_5157661;  isobutane; CC(C)C; 2.76
+Training; mobley_5310099;  hex-1-ene; CCCCC=C; 3.39
+Training; mobley_5346580;  3,3-dimethylbutan-2-one; CC(=O)C(C)(C)C; 1.2
+Training; mobley_5347550;  2,2-dichloro-1,1-difluoro-1-methoxy-ethane; COC(C(Cl)Cl)(F)F; 2.21
+Training; mobley_5390332;  methyl butanoate; CCCC(=O)OC; 1.29
+Training; mobley_5449201;  n-pentane; CCCCC; 3.33
+Training; mobley_5520946;  benzenethiol; c1ccc(cc1)S; 2.52
+Training; mobley_5747188;  1-methyl-2-nitro-benzene; Cc1ccccc1[N+](=O)[O-]; 2.3
+Training; mobley_5759258;  pentan-1-ol; CCCCCO; 1.56
+Training; mobley_5816127;  2-methoxyethanol; COCCO; -0.77
+Training; mobley_5952846;  1,1,2,2-tetrachloroethylene; C(=C(Cl)Cl)(Cl)Cl; 3.4
+Training; mobley_6006813;  1-nitrobutane; CCCC[N+](=O)[O-]; 1.47
+Training; mobley_6082662;  4-nitroaniline; c1cc(ccc1N)N(=O)=O; 1.39
+Training; mobley_6091882;  ethylene; C=C; 1.13
+Training; mobley_6115639;  trimethyl phosphate; COP(=O)(OC)OC; -0.78
+Training; mobley_637522;  anthracene; c1ccc2cc3ccccc3cc2c1; 4.45
+Training; mobley_664966;  diiodomethane; C(I)I; 2.3
+Training; mobley_6714389;  methanamine; CN; -0.57
+Training; mobley_6739648;  1,4-dioxane; C1COCCO1; -0.27
+Training; mobley_676247;  tetrafluoromethane; C(F)(F)(F)F; 1.18
+Training; mobley_6812653;  hexane; CCCCCC; 3.9
+Training; mobley_6973347;  ethyl acetate; CCOC(=O)C; 0.73
+Training; mobley_7015518;  methoxymethane; COC; 0.1
+Training; mobley_7150646;  1,4-dibromobenzene; c1cc(ccc1Br)Br; 3.79
+Training; mobley_7295828;  anisole; COc1ccccc1; 2.11
+Training; mobley_7326982;  propan-2-ol; CC(C)O; 0.05
+Training; mobley_7497999;  1-phenylethanone; CC(=O)c1ccccc1; 1.58
+Training; mobley_7532833;  acetonitrile; CC#N; -0.34
+Training; mobley_7573149;  propyl acetate; CCCOC(=O)C; 1.24
+Training; mobley_7578802;  bromoform; C(Br)(Br)Br; 2.67
+Training; mobley_7599023;  bromobenzene; c1ccc(cc1)Br; 2.99
+Training; mobley_7608462;  chlorobenzene; c1ccc(cc1)Cl; 2.89
+Training; mobley_766666;  1,1,2-trichloroethylene; C(=C(Cl)Cl)Cl; 2.42
+Training; mobley_7690440;  methyldisulfanylmethane; CSSC; 1.77
+Training; mobley_7708038;  1-bromopropane; CCCBr; 2.1
+Training; mobley_7758918;  propionic acid; CCC(=O)O; 0.33
+Training; mobley_8006582;  cyclopentane; C1CCCC1; 3.0
+Training; mobley_8011706;  N,N-dimethylformamide; CN(C)C=O; -1.01
+Training; mobley_8118832;  prop-2-en-1-ol; C=CCO; 0.17
+Training; mobley_8127829;  ethylbenzene; CCc1ccccc1; 3.15
+Training; mobley_820789;  butyric acid; CCCC(=O)O; 0.79
+Training; mobley_8221999;  butanenitrile; CCCC#N; 0.53
+Training; mobley_8260524;  prop-1-yne; CC#C; 0.94
+Training; mobley_8320545;  1-nitroethane; CC[N+](=O)[O-]; 0.18
+Training; mobley_8426916;  N-ethylethanamine; CCNCC; 0.58
+Training; mobley_8614858;  heptane; CCCCCCC; 4.5
+Training; mobley_8691603;  m-cresol; Cc1cccc(c1)O; 1.98
+Training; mobley_8882696;  tetrahydrofuran; C1CCOC1; 0.46
+Training; mobley_8966374;  2-methylpyrazine; Cc1cnccn1; 0.23
+Training; mobley_8983100;  bromomethane; CBr; 1.19
+Training; mobley_9055303;  methane; C; 1.09
+Training; mobley_9100956;  methylcyclohexane; CC1CCCCC1; 3.61
+Training; mobley_9185328;  propan-1-amine; CCCN; 0.48
+Training; mobley_9209581;  N,N-dimethylmethanamine; CN(C)C; 0.22
+Training; mobley_9407874;  octan-2-one; CCCCCCC(=O)C; 2.37
+Training; mobley_9434451;  2-bromopropane; CC(C)Br; 2.1
+Training; mobley_9478823;  o-xylene; Cc1ccccc1C; 3.12
+Training; mobley_967099;  2-nitropropane; CC(C)[N+](=O)[O-]; 0.55
+Training; mobley_9671033;  1-nitropropane; CCC[N+](=O)[O-]; 0.87
+Training; mobley_9733743;  butan-1-amine; CCCCN; 0.97
+Training; mobley_9913368;  (E)-1,2-dichloroethylene; C(=C/Cl)\Cl; 2.09
+Training; mobley_994483;  bromoethane; CCBr; 1.61
+Testing; mobley_1017962;  methyl hexanoate; CCCCCC(=O)OC; 2.42
+Testing; mobley_1036761;  cyclohexanamine; C1CCC(CC1)N; 1.49
+Testing; mobley_1079207;  1,3-dichlorobenzene; c1cc(cc(c1)Cl)Cl; 3.53
+Testing; mobley_1178614;  2-chlorophenol; c1ccc(c(c1)O)Cl; 2.15
+Testing; mobley_1199854;  1-iodopropane; CCCI; 2.54
+Testing; mobley_1235151;  1-nitropentane; CCCCC[N+](=O)[O-]; 2.01
+Testing; mobley_1244778;  cycloheptanol; C1CCCC(CC1)O; 1.83
+Testing; mobley_1278715;  hexachloroethane; C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl; 4.14
+Testing; mobley_129464;  1-butoxybutane; CCCCOCCCC; 3.21
+Testing; mobley_1449384;  1-isopropyl-4-methyl-benzene; Cc1ccc(cc1)C(C)C; 4.10
+Testing; mobley_1502181;  nonan-2-one; CCCCCCCC(=O)C; 3.14
+Testing; mobley_1563176;  butane-1-thiol; CCCCS; 2.28
+Testing; mobley_1708457;  methylsulfonylmethane; CS(=O)(=O)C; -1.41
+Testing; mobley_1722522;  ethyl butanoate; CCCC(=O)OCC; 1.71
+Testing; mobley_1755375;  2,6-dimethylphenol; Cc1cccc(c1O)C; 2.36
+Testing; mobley_1760914;  1-chloro-2-methyl-benzene; Cc1ccccc1Cl; 3.42
+Testing; mobley_1792062;  1,2-dibromoethane; C(CBr)Br; 1.74
+Testing; mobley_1800170;  ethanethiol; CCS; 1.18
+Testing; mobley_1855337;  1,2,3,5-tetrachlorobenzene; c1c(cc(c(c1Cl)Cl)Cl)Cl; 4.65
+Testing; mobley_1857976;  1,2-dichloroethane; C(CCl)Cl; 1.48
+Testing; mobley_1858644;  2-phenylethanol; c1ccc(cc1)CCO; 1.36
+Testing; mobley_1893815;  1,1,1,2-tetrachloroethane; C(C(Cl)(Cl)Cl)Cl; 2.66
+Testing; mobley_1893937;  1-chlorohexane; CCCCCCCl; 3.66
+Testing; mobley_1903702;  butan-2-ol; CC[C@H](C)O; 0.61
+Testing; mobley_1905088;  benzyl bromide; c1ccc(cc1)CBr; 2.92
+Testing; mobley_1987439;  mesitylene; Cc1cc(cc(c1)C)C; 3.59
+Testing; mobley_2005792;  biphenyl; c1ccc(cc1)c2ccccc2; 4.06
+Testing; mobley_2023925;  2-chloro-2-(difluoromethoxy)-1,1,1-trifluoro-ethane; [C@@H](C(F)(F)F)(OC(F)F)Cl; 2.06
+Testing; mobley_2049967;  methylsulfanylethane; CCSC; 1.54
+Testing; mobley_2123854;  4-hydroxybenzonitrile; c1cc(ccc1C#N)O; 1.60
+Testing; mobley_2126135;  2-ethylphenol; CCc1ccccc1O; 2.47
+Testing; mobley_2178600;  1-chloro-pentane; CCCCCCl; 3.11
+Testing; mobley_2213823;  3-methylpentane; CCC(C)CC; 3.60
+Testing; mobley_2245668;  2-methylpropan-1-ol; CC(C)CO; 0.76
+Testing; mobley_2261979;  acenaphthene; c1cc2cccc3c2c(c1)CC3; 3.92
+Testing; mobley_2294995;  ethyl formate; CCOC=O; 0.27
+Testing; mobley_2354112;  3-ethylphenol; CCc1cccc(c1)O; 2.40
+Testing; mobley_2390199;  heptan-4-one; CCCC(=O)CCC; 2.04
+Testing; mobley_2457863;  3-methoxyphenol; COc1cccc(c1)O; 1.58
+Testing; mobley_2484519;  benzyl chloride; c1ccc(cc1)CCl; 2.30
+Testing; mobley_2492140;  1,1,1,2,2-pentachloroethane; C(C(Cl)(Cl)Cl)(Cl)Cl; 3.22
+Testing; mobley_2493732;  1,1-dichloroethylene; C=C(Cl)Cl; 2.13
+Testing; mobley_2517158;  1-bromoheptane; CCCCCCCBr; 4.36
+Testing; mobley_2577969;  pyrene; c1cc2ccc3cccc4c3c2c(c1)cc4; 4.88
+Testing; mobley_2607611;  hexyl acetate; CCCCCCOC(=O)C; 2.83
+Testing; mobley_2609604;  3,3-dimethylpentane; CCC(C)(C)CC; 5.19
+Testing; mobley_2661134;  3-hydroxybenzonitrile; c1cc(cc(c1)O)C#N; 1.70
+Testing; mobley_2681549;  1,3,5-trichlorobenzene; c1c(cc(cc1Cl)Cl)Cl; 4.19
+Testing; mobley_2751110;  4-nitrophenol; c1cc(ccc1[N+](=O)[O-])O; 1.91
+Testing; mobley_2789243;  3-chloropyridine; c1cc(cnc1)Cl; 1.33
+Testing; mobley_2859600;  styrene; C=Cc1ccccc1; 2.95
+Testing; mobley_2864987;  pentan-2-ol; CCC[C@@H](C)O; 1.19
+Testing; mobley_2923700;  4-ethylphenol; CCc1ccc(cc1)O; 2.58
+Testing; mobley_2929847;  3-methylbutanoic acid; CC(C)CC(=O)O; 1.16
+Testing; mobley_3040612;  1-ethyl-2-methylbenzene; CCc1ccccc1C; 3.53
+Testing; mobley_3144334;  2,5-dimethylphenol; Cc1ccc(c(c1)O)C; 2.33
+Testing; mobley_3183805;  1,2,4-trimethylbenzene; Cc1ccc(c(c1)C)C; 3.56
+Testing; mobley_3211679;  cyclohexene; C1CCC=CC1; 2.86
+Testing; mobley_3264884;  naphthalen-2-amine; c1ccc2cc(ccc2c1)N; 2.28
+Testing; mobley_3318135;  nonan-5-one; CCCCC(=O)CCCC; 2.88
+Testing; mobley_3378420;  nonan-1-ol; CCCCCCCCCO; 3.67
+Testing; mobley_3414356;  2-methylpentan-2-ol; CCCC(C)(C)O; 1.53
+Testing; mobley_3452749;  1,2,3-trimethylbenzene; Cc1cccc(c1C)C; 3.66
+Testing; mobley_349850;  1-(p-tolyl)ethanone; Cc1ccc(cc1)C(=O)C; 2.10
+Testing; mobley_3515580;  2-methoxyphenol; COc1ccccc1O; 1.32
+Testing; mobley_3525176;  pentylbenzene; CCCCCc1ccccc1; 4.90
+Testing; mobley_3572203;  pentyl propanoate; CCCCCOC(=O)CC; 2.67
+Testing; mobley_3639400;  1-chlorobutane; CCCCCl; 2.64
+Testing; mobley_3663158;  naphthalen-2-ol; c1ccc2cc(ccc2c1)O; 2.70
+Testing; mobley_3682850;  cyclohexanone; C1CCC(=O)CC1; 0.81
+Testing; mobley_3690931;  propyl butanoate; CCCC(=O)OCCC; 2.15
+Testing; mobley_3709920;  non-1-ene; CCCCCCCC=C; 5.15
+Testing; mobley_3715043;  1,4-dimethylnaphthalene; Cc1ccc(c2c1cccc2)C; 4.42
+Testing; mobley_3746675;  isopropenylbenzene; CC(=C)c1ccccc1; 3.35
+Testing; mobley_3775790;  1-methylpyrrole; Cn1cccc1; 1.21
+Testing; mobley_3777264;  3-nitroaniline; c1cc(cc(c1)[N+](=O)[O-])N; 1.37
+Testing; mobley_3843583;  naphthalen-1-amine; c1ccc2c(c1)cccc2N; 2.25
+Testing; mobley_397645;  ethyl benzoate; CCOC(=O)c1ccccc1; 2.64
+Testing; mobley_3980099;  1,2,3-trichlorobenzene; c1cc(c(c(c1)Cl)Cl)Cl; 4.05
+Testing; mobley_3999471;  1,1-dichloroethane; CC(Cl)Cl; 1.79
+Testing; mobley_4043951;  pent-1-ene; CCCC=C; 2.80
+Testing; mobley_4188615;  N,N-dimethylbenzamide; CN(C)C(=O)c1ccccc1; 0.62
+Testing; mobley_4219614;  1,2,3,4-tetrachlorobenzene; c1cc(c(c(c1Cl)Cl)Cl)Cl; 4.64
+Testing; mobley_4291494;  2-chloropyridine; c1ccnc(c1)Cl; 1.22
+Testing; mobley_4375719;  nonane; CCCCCCCCC; 5.65
+Testing; mobley_4434915;  chloromethane; CCl; 0.91
+Testing; mobley_4494568;  1-bromo-4-methyl-benzene; Cc1ccc(cc1)Br; 3.50
+Testing; mobley_4561957;  2,3-dimethylbutane; CC(C)C(C)C; 3.85
+Testing; mobley_4699732;  1,2-dichloropropane; C[C@@H](CCl)Cl; 2.02
+Testing; mobley_4759887;  1-iodoheptane; CCCCCCCI; 4.70
+Testing; mobley_4762983;  hept-1-ene; CCCCCC=C; 3.99
+Testing; mobley_4780078;  2,4-dimethylphenol; Cc1ccc(c(c1)C)O; 2.30
+Testing; mobley_4893032;  pentanenitrile; CCCCC#N; 1.12
+Testing; mobley_49274;  hept-1-yne; CCCCCC#C; 3.32
+Testing; mobley_4983965;  ethylsulfanylethane; CCSCC; 1.95
+Testing; mobley_5026370;  pyridine-4-carbonitrile; c1cnccc1C#N; 0.46
+Testing; mobley_5052949;  1-propylsulfanylpropane; CCCSCCC; 2.96
+Testing; mobley_5063386;  2-nitrophenol; c1ccc(c(c1)[N+](=O)[O-])O; 1.85
+Testing; mobley_5094777;  indane; c1ccc2c(c1)CCC2; 3.18
+Testing; mobley_5110043;  2,6-dimethylnaphthalene; Cc1ccc2cc(ccc2c1)C; 4.31
+Testing; mobley_525934;  methanethiol; CS; 0.65
+Testing; mobley_5263791;  1-ethylnaphthalene; CCc1cccc2c1cccc2; 4.39
+Testing; mobley_5286200;  1,4-dichlorobutane; C(CCCl)CCl; 2.24
+Testing; mobley_5311804;  phenylmethanol; c1ccc(cc1)CO; 1.10
+Testing; mobley_5445548;  cumene; CC(C)c1ccccc1; 3.66
+Testing; mobley_5467162;  4-tert-butylphenol; CC(C)(C)c1ccc(cc1)O; 3.31
+Testing; mobley_5471704;  isopentyl acetate; CC(C)CCOC(=O)C; 2.17
+Testing; mobley_547634;  2,3-dimethylnaphthalene; Cc1cc2ccccc2cc1C; 4.40
+Testing; mobley_5665561;  1,3-dimethylnaphthalene; Cc1cc(c2ccccc2c1)C; 4.42
+Testing; mobley_5690766;  hexa-1,5-diene; C=CCCC=C; 2.87
+Testing; mobley_5692472;  N-methylmethanamine; CNC; -0.38
+Testing; mobley_5852491;  methylcyclopentane; CC1CCCC1; 3.37
+Testing; mobley_588781;  hexylbenzene; CCCCCCc1ccccc1; 5.52
+Testing; mobley_5890803;  propyl propanoate; CCCOC(=O)CC; 1.71
+Testing; mobley_5935995;  2,2-dimethylbutane; CCC(C)(C)C; 3.82
+Testing; mobley_5948990;  2-nitroaniline; c1ccc(c(c1)N)[N+](=O)[O-]; 1.85
+Testing; mobley_5973402;  3-methylbutan-1-ol; CC(C)CCO; 1.16
+Testing; mobley_6060301;  hexan-1-amine; CCCCCCN; 2.06
+Testing; mobley_6102880;  diphenyl ether; c1ccc(cc1)Oc2ccccc2; 4.21
+Testing; mobley_6190089;  1,1,2,2-tetrachloroethane; C(C(Cl)Cl)(Cl)Cl; 2.39
+Testing; mobley_6235784;  2-chlorobutane; CC[C@H](C)Cl; 2.52
+Testing; mobley_6248915;  octan-1-amine; CCCCCCCCN; 3.09
+Testing; mobley_6250025;  1-iodohexane; CCCCCCI; 4.16
+Testing; mobley_627267;  1-bromo-2-methyl-propane; CC(C)CBr; 2.53
+Testing; mobley_6359135;  carbon tetrachloride; C(Cl)(Cl)(Cl)Cl; 2.83
+Testing; mobley_63712;  1-methylpiperidine; CN1CCCCC1; 1.30
+Testing; mobley_6430250;  propylbenzene; CCCc1ccccc1; 3.72
+Testing; mobley_6474572;  chloroethylene; C=CCl; 1.52
+Testing; mobley_6619554;  ethyl pentanoate; CCCCC(=O)OCC; 2.30
+Testing; mobley_6743808;  3,4-dimethylphenol; Cc1ccc(cc1C)O; 2.23
+Testing; mobley_6804509;  1,2,4,5-tetrachlorobenzene; c1c(c(cc(c1Cl)Cl)Cl)Cl; 4.60
+Testing; mobley_6981465;  isopropyl acetate; CC(C)OC(=O)C; 1.02
+Testing; mobley_7009711;  3,5-dimethylphenol; Cc1cc(cc(c1)O)C; 2.35
+Testing; mobley_7010316;  cyclohexanol; C1CCC(CC1)O; 1.23
+Testing; mobley_7017274;  phenanthrene; c1ccc2c(c1)ccc3c2cccc3; 4.46
+Testing; mobley_7039935;  naphthalen-1-ol; c1ccc2c(c1)cccc2O; 2.84
+Testing; mobley_7047032;  2-chloro-2-methyl-propane; CC(C)(C)Cl; 2.39
+Testing; mobley_7066554;  4-chlorophenol; c1cc(ccc1O)Cl; 2.40
+Testing; mobley_7142697;  pentan-1-amine; CCCCCN; 1.49
+Testing; mobley_7157427;  1-chloroheptane; CCCCCCCCl; 4.15
+Testing; mobley_7176290;  3-nitrophenol; c1cc(cc(c1)O)[N+](=O)[O-]; 2.00
+Testing; mobley_718988;  heptan-1-amine; CCCCCCCN; 2.57
+Testing; mobley_7200804;  2-fluorophenol; c1ccc(c(c1)O)F; 1.71
+Testing; mobley_7227357;  pentan-3-ol; CCC(CC)O; 1.21
+Testing; mobley_7298388;  1-methyl-3-nitro-benzene; Cc1cccc(c1)[N+](=O)[O-]; 2.42
+Testing; mobley_7375018;  undecan-2-one; CCCCCCCCCC(=O)C; 4.09
+Testing; mobley_7463799;  3-phenylpropan-1-ol; c1ccc(cc1)CCCO; 1.88
+Testing; mobley_7542832;  1-propoxypropane; CCCOCCC; 2.03
+Testing; mobley_7769613;  2-bromo-2-methyl-propane; CC(C)(C)Br; 2.53
+Testing; mobley_778352;  2-methylbut-2-ene; CC=C(C)C; 2.67
+Testing; mobley_7814642;  1,2,4-trichlorobenzene; c1cc(c(cc1Cl)Cl)Cl; 4.02
+Testing; mobley_7860938;  N-butylbutan-1-amine; CCCCNCCCC; 2.83
+Testing; mobley_7893124;  tert-butylbenzene; CC(C)(C)c1ccccc1; 4.11
+Testing; mobley_7943327;  ethyl propanoate; CCC(=O)OCC; 1.21
+Testing; mobley_7977115;  hexan-3-ol; CCC[C@H](CC)O; 1.65
+Testing; mobley_8057732;  3-chlorophenol; c1cc(cc(c1)Cl)O; 2.50
+Testing; mobley_8337977;  4-methylpentan-2-one; CC(C)CC(=O)C; 1.31
+Testing; mobley_8449031;  N,N-diethylethanamine; CCN(CC)CC; 1.45
+Testing; mobley_8514745;  pentyl acetate; CCCCCOC(=O)C; 2.30
+Testing; mobley_8522124;  oct-1-yne; CCCCCCC#C; 3.92
+Testing; mobley_8525830;  1-iodopentane; CCCCCI; 3.62
+Testing; mobley_852937;  4-fluorophenol; c1cc(ccc1O)F; 1.77
+Testing; mobley_859464;  isobutyl acetate; CC(C)COC(=O)C; 1.78
+Testing; mobley_8685905;  2-bromo-1,1,1,2-tetrafluoro-ethane; [C@@H](C(F)(F)F)(F)Br; 2.01
+Testing; mobley_8705848;  N-isopropylpropan-2-amine; CC(C)NC(C)C; 1.16
+Testing; mobley_8739734;  3-methylbutan-2-one; CC(C)C(=O)C; 0.84
+Testing; mobley_8754702;  propyl formate; CCCOC=O; 0.83
+Testing; mobley_8764620;  pyridine-3-carbonitrile; c1cc(cnc1)C#N; 0.23
+Testing; mobley_8772587;  1-iodobutane; CCCCI; 3.08
+Testing; mobley_8785107;  2,5-dimethyltetrahydrofuran; C[C@H]1CC[C@@H](O1)C; 1.25
+Testing; mobley_8789465;  2-iodophenol; c1ccc(c(c1)O)I; 2.65
+Testing; mobley_8809190;  butylbenzene; CCCCc1ccccc1; 4.38
+Testing; mobley_8809274;  trifluoromethylbenzene; c1ccc(cc1)C(F)(F)F; 3.01
+Testing; mobley_8883511;  2-methylbenzaldehyde; Cc1ccccc1C=O; 2.09
+Testing; mobley_8899867;  cyclopentanol; C1CCC(C1)O; 0.71
+Testing; mobley_9015240;  1-bromooctane; CCCCCCCCBr; 4.89
+Testing; mobley_9029594;  fluoromethane; CF; 0.51
+Testing; mobley_9073553;  methylsulfanylmethane; CSC; 2.80
+Testing; mobley_9121449;  but-1-yne; CCC#C; 1.46
+Testing; mobley_9197172;  oct-1-ene; CCCCCCC=C; 4.57
+Testing; mobley_9246215;  penta-1,4-diene; C=CCC=C; 2.48
+Testing; mobley_9257453;  3,4-dichlorophenol; c1cc(c(cc1O)Cl)Cl; 3.33
+Testing; mobley_929676;  1-bromohexane; CCCCCCBr; 3.80
+Testing; mobley_9414831;  1-methylnaphthalene; Cc1cccc2c1cccc2; 3.87
+Testing; mobley_9565165;  9H-fluorene; c1ccc-2c(c1)Cc3c2cccc3; 4.18
+Testing; mobley_9617923;  decan-2-one; CCCCCCCCC(=O)C; 3.73
+Testing; mobley_9624458;  1,3-dichloropropane; C(CCl)CCl; 2.00
+Testing; mobley_9626434;  2-ethoxyethanol; CCOCCO; -0.10
+Testing; mobley_9705941;  2-methylthiophene; Cc1cccs1; 2.33
+Testing; mobley_9729792;  cyclohepta-1,3,5-triene; C1C=CC=CC=C1; 2.63
+Testing; mobley_9838013;  2-methylbutan-2-ol; CCC(C)(C)O; 0.89
+Testing; mobley_9942801;  1-ethyl-4-methyl-benzene; CCc1ccc(cc1)C; 3.63
+Testing; mobley_1636752;  methanol; CO; -0.66
+Testing; mobley_1903702;  butan-2-ol; CCCCO; 0.88
+Testing; mobley_2782339;  phthalimide; c1ccc2c(c1)C(=O)NC2=O; 1.15
+Testing; mobley_2923700;  4-ethylphenol; CCc1ccc(cc1)O; 2.50
+Testing; mobley_2925352;  p-cresol; Cc1ccc(cc1)O; 1.94
+Testing; mobley_3144334;  2,5-dimethylphenol; Cc1ccc(c(c1)O)C; 2.34
+Testing; mobley_3187514;  2-methylaniline; Cc1ccccc1N; 1.29
+Testing; mobley_3727287;  quinone; C1=CC(=O)C=CC1=O; 0.20
+Testing; mobley_3867265;  acetone; CC(=O)C; -0.24
+Testing; mobley_3969312;  benzaldehyde; c1ccc(cc1)C=O; 1.48
+Testing; mobley_4035953;  o-cresol; Cc1ccccc1O; 1.95
+Testing; mobley_4780078;  2,4-dimethylphenol; Cc1ccc(c(c1)C)O; 2.35
+Testing; mobley_4883284;  aniline; c1ccc(cc1)N; 0.90
+Testing; mobley_5063386;  2-nitrophenol; c1ccc(c(c1)[N+](=O)[O-])O; 1.79
+Testing; mobley_5518547;  4-methylaniline; Cc1ccc(cc1)N; 1.39
+Testing; mobley_6334915;  (1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol; COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC; 0.51
+Testing; mobley_6743808;  3,4-dimethylphenol; Cc1ccc(cc1C)O; 2.23
+Testing; mobley_8426916;  N-ethylethanamine; CCNCC; 0.57
+Testing; mobley_8691603;  m-cresol; Cc1cccc(c1)O; 1.96
+Testing; mobley_9209581;  N,N-dimethylmethanamine; CN(C)C; 0.27
+Testing; mobley_9733743;  butan-1-amine; CCCCN; 0.88
+Training; mobley_1019269; butan-1-ol; CCCCO; 0.88
+Training; mobley_1075836; methyl propanoate; CCC(=O)OC; 0.84
+Training; mobley_1107178; iodoethane; CCI; 2.00
+Training; mobley_1144156; ethoxyethane; CCOCC; 0.89
+Training; mobley_1189457; methylsulfanylbenzene; CSc1ccccc1; 2.74
+Training; mobley_1323538; triethylphosphate; CCOP(=O)(OCC)OCC; 0.80
+Training; mobley_1328465; 1,1,2-trichloroethane; ClCC(Cl)Cl; 1.89
+Training; mobley_1396156; pentachloronitrobenzene; O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl; 4.64
+Training; mobley_1424265; m-xylene; Cc1cccc(C)c1; 3.20
+Training; mobley_1520842; 4-methylpyridine; Cc1ccncc1; 1.22
+Training; mobley_1636752; methanol; CO; -0.77
+Training; mobley_1650157; 2-methylpropan-2-ol; CC(C)(C)O; 0.35
+Training; mobley_1659169; morpholine; C1COCCN1; -0.86
+Training; mobley_1674094; hex-1-yne; C#CCCCC; 2.73
+Training; mobley_1728386; benzamide; NC(=O)c1ccccc1; 0.64
+Training; mobley_1733799; 4-bromophenol; Oc1ccc(Br)cc1; 2.59
+Training; mobley_1735893; hexanoic acid; CCCCCC(=O)O; 1.92
+Training; mobley_186894; propanethiol; CCCS; 1.81
+Training; mobley_1873346; toluene; Cc1ccccc1; 2.73
+Training; mobley_1875719; pentan-3-one; CCC(=O)CC; 0.99
+Training; mobley_1881249; pentan-2-one; CCCC(C)=O; 0.91
+Training; mobley_1952272; nitromethane; C[N+](=O)[O-]; -0.35
+Training; mobley_20524; phenol; Oc1ccccc1; 1.46
+Training; mobley_2146331; formaldehyde; C=O; 0.35
+Training; mobley_2295058; methyl paraben; COC(=O)c1ccc(O)cc1; 1.96
+Training; mobley_2310185; ethanol; CCO; -0.31
+Training; mobley_2364370; butyl acetate; CCCCOC(C)=O; 1.78
+Training; mobley_2410897; ethanamine; CCN; -0.13
+Training; mobley_2451097; benzonitrile; N#Cc1ccccc1; 1.56
+Training; mobley_2489709; 1,2-dichlorobenzene; Clc1ccccc1Cl; 3.43
+Training; mobley_2689721; cyclohexane; C1CCCCC1; 3.44
+Training; mobley_2763835; ethoxybenzene; CCOc1ccccc1; 2.51
+Training; mobley_2782339; phthalimide; O=C1NC(=O)c2ccccc21; 1.15
+Training; mobley_282648; naphthalene; c1ccc2ccccc2c1; 3.30
+Training; mobley_2837389; pyrrole; c1cc[nH]c1; 0.75
+Training; mobley_2913224; acetylsalicylic acid; CC(=O)Oc1ccccc1C(=O)O; 1.19
+Training; mobley_2925352; p-cresol; Cc1ccc(O)cc1; 1.94
+Training; mobley_2958326; N-propylpropan-1-amine; CCCNCCC; 1.67
+Training; mobley_296847; pyridine; c1ccncc1; 0.65
+Training; mobley_2996632; chloroform; ClC(Cl)Cl; 1.97
+Training; mobley_3006808; 2,2,2-trifluoroethanol; OCC(F)(F)F; 0.41
+Training; mobley_3034976; acetic acid; CC(=O)O; -0.17
+Training; mobley_3053621; benzene; c1ccccc1; 2.13
+Training; mobley_313406; propan-1-ol; CCCO; 0.25
+Training; mobley_3151666; decan-1-ol; CCCCCCCCCCO; 4.57
+Training; mobley_3167746; octane; CCCCCCCC; 5.18
+Training; mobley_3187514; 2-methylaniline; Cc1ccccc1N; 1.32
+Training; mobley_3234716; p-xylene; Cc1ccc(C)cc1; 3.15
+Training; mobley_3395921; tetrahydropyran; C1CCOCC1; 0.95
+Training; mobley_3398536; iodobenzene; Ic1ccccc1; 3.25
+Training; mobley_3546460; hexan-1-ol; CCCCCCO; 2.03
+Training; mobley_3573480; heptan-2-one; CCCCCC(C)=O; 1.98
+Training; mobley_36119; octan-1-ol; CCCCCCCCO; 3.00
+Training; mobley_3738859; 1-bromo-pentane; CCCCCBr; 3.37
+Training; mobley_3761215; 1,1,1-trichloroethane; CC(Cl)(Cl)Cl; 2.49
+Training; mobley_3762186; dichloromethane; ClCCl; 1.25
+Training; mobley_3867265; acetone; CC(C)=O; -0.24
+Training; mobley_3968739; methyl benzoate; COC(=O)c1ccccc1; 2.12
+Training; mobley_3969312; benzaldehyde; O=Cc1ccccc1; 1.48
+Training; mobley_3982371; methyl acetate; COC(C)=O; 0.18
+Training; mobley_4035953; o-cresol; Cc1ccccc1O; 1.95
+Training; mobley_4193752; nitrobenzene; O=[N+]([O-])c1ccccc1; 1.85
+Training; mobley_4287564; 2-methylpyridine; Cc1ccccn1; 1.11
+Training; mobley_4305650; propanenitrile; CCC#N; 0.16
+Training; mobley_4364398; iodomethane; CI; 1.51
+Training; mobley_4483973; fluorobenzene; Fc1ccccc1; 2.27
+Training; mobley_4553008; 1,4-dichlorobenzene; Clc1ccc(Cl)cc1; 3.44
+Training; mobley_4609460; ethyl paraben; CCOC(=O)c1ccc(O)cc1; 2.47
+Training; mobley_4630641; 1,2-dimethoxyethane; COCCOC; -0.21
+Training; mobley_4639255; ethylene glycol; OCCO; -1.36
+Training; mobley_4792268; pentanoic acid; CCCCC(=O)O; 1.39
+Training; mobley_4845722; hexachlorobenzene; Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl; 5.73
+Training; mobley_4883284; aniline; Nc1ccccc1; 0.90
+Training; mobley_5079234; heptan-1-ol; CCCCCCCO; 2.62
+Training; mobley_5310099; hex-1-ene; C=CCCCC; 3.39
+Training; mobley_5346580; 3,3-dimethylbutan-2-one; CC(=O)C(C)(C)C; 1.20
+Training; mobley_5347550; 2,2-dichloro-1,1-difluoro-1-methoxy-ethane; COC(F)(F)C(Cl)Cl; 2.21
+Training; mobley_5390332; methyl butanoate; CCCC(=O)OC; 1.29
+Training; mobley_5449201; n-pentane; CCCCC; 3.39
+Training; mobley_5518547; 4-methylaniline; Cc1ccc(N)cc1; 1.39
+Training; mobley_5520946; benzenethiol; Sc1ccccc1; 2.52
+Training; mobley_5747188; 1-methyl-2-nitro-benzene; Cc1ccccc1[N+](=O)[O-]; 2.30
+Training; mobley_5759258; pentan-1-ol; CCCCCO; 1.51
+Training; mobley_5816127; 2-methoxyethanol; COCCO; -0.77
+Training; mobley_5857; quinoline; c1ccc2ncccc2c1; 2.03
+Training; mobley_5952846; 1,1,2,2-tetrachloroethylene; ClC(Cl)=C(Cl)Cl; 3.40
+Training; mobley_5977084; 3-methylpyridine; Cc1cccnc1; 1.20
+Training; mobley_6006813; 1-nitrobutane; CCCC[N+](=O)[O-]; 1.47
+Training; mobley_6082662; 4-nitroaniline; Nc1ccc([N+](=O)[O-])cc1; 1.39
+Training; mobley_6115639; trimethyl phosphate; COP(=O)(OC)OC; -0.65
+Training; mobley_6201330; propyl paraben; CCCOC(=O)c1ccc(O)cc1; 3.04
+Training; mobley_6303022; 4-ethylpyridine; CCc1ccncc1; 1.65
+Training; mobley_6309289; piperidine; C1CCNCC1; 0.84
+Training; mobley_637522; anthracene; c1ccc2cc3ccccc3cc2c1; 4.45
+Training; mobley_6632459; propanal; CCC=O; 0.59
+Training; mobley_664966; diiodomethane; ICI; 2.30
+Training; mobley_6714389; methanamine; CN; -0.57
+Training; mobley_6739648; 1,4-dioxane; C1COCCO1; -0.27
+Training; mobley_6812653; hexane; CCCCCC; 3.90
+Training; mobley_6973347; ethyl acetate; CCOC(C)=O; 0.73
+Training; mobley_7150646; 1,4-dibromobenzene; Brc1ccc(Br)cc1; 3.79
+Training; mobley_7295828; anisole; COc1ccccc1; 2.11
+Training; mobley_7326982; propan-2-ol; CC(C)O; 0.05
+Training; mobley_7378987; caffeine; Cn1cnc2c1c(=O)n(C)c(=O)n2C; -0.07
+Training; mobley_7497999; 1-phenylethanone; CC(=O)c1ccccc1; 1.58
+Training; mobley_7532833; acetonitrile; CC#N; -0.34
+Training; mobley_7573149; propyl acetate; CCCOC(C)=O; 1.24
+Training; mobley_7578802; bromoform; BrC(Br)Br; 2.40
+Training; mobley_7599023; bromobenzene; Brc1ccccc1; 2.99
+Training; mobley_7608462; chlorobenzene; Clc1ccccc1; 2.84
+Training; mobley_7688753; 3-hydroxybenzaldehyde; O=Cc1cccc(O)c1; 1.38
+Training; mobley_7690440; methyldisulfanylmethane; CSSC; 1.77
+Training; mobley_7758918; propionic acid; CCC(=O)O; 0.33
+Training; mobley_7774695; N-methylaniline; CNc1ccccc1; 1.66
+Training; mobley_7912193; butyl paraben; CCCCOC(=O)c1ccc(O)cc1; 3.57
+Training; mobley_8006582; cyclopentane; C1CCCC1; 3.00
+Training; mobley_8011706; N,N-dimethylformamide; CN(C)C=O; -1.01
+Training; mobley_8118832; prop-2-en-1-ol; C=CCO; 0.17
+Training; mobley_8127829; ethylbenzene; CCc1ccccc1; 3.15
+Training; mobley_820789; butyric acid; CCCC(=O)O; 0.79
+Training; mobley_8221999; butanenitrile; CCCC#N; 0.53
+Training; mobley_8320545; 1-nitroethane; CC[N+](=O)[O-]; 0.18
+Training; mobley_8426916; N-ethylethanamine; CCNCC; 0.58
+Training; mobley_8573194; butanal; CCCC=O; 0.88
+Training; mobley_8614858; heptane; CCCCCCC; 4.66
+Training; mobley_8691603; m-cresol; Cc1cccc(O)c1; 1.96
+Training; mobley_8882696; tetrahydrofuran; C1CCOC1; 0.46
+Training; mobley_8966374; 2-methylpyrazine; Cc1cnccn1; 0.21
+Training; mobley_9100956; methylcyclohexane; CC1CCCCC1; 3.61
+Training; mobley_9185328; propan-1-amine; CCCN; 0.48
+Training; mobley_9209581; N,N-dimethylmethanamine; CN(C)C; 0.16
+Training; mobley_9246351; dibromomethane; BrCBr; 1.70
+Training; mobley_9407874; octan-2-one; CCCCCCC(C)=O; 2.37
+Training; mobley_9478823; o-xylene; Cc1ccccc1C; 3.12
+Training; mobley_951560; piperazine; C1CNCCN1; -1.50
+Training; mobley_967099; 2-nitropropane; CC(C)[N+](=O)[O-]; 0.93
+Training; mobley_9671033; 1-nitropropane; CCC[N+](=O)[O-]; 0.87
+Training; mobley_9733743; butan-1-amine; CCCCN; 0.97
+Training; mobley_9740891; dichlobenil; N#Cc1c(Cl)cccc1Cl; 2.74
+Training; mobley_9913368; (E)-1,2-dichloroethylene; Cl/C=C/Cl; 2.09
+Training; mobley_994483; bromoethane; CCBr; 1.61
+Testing; mobley_1079207; 1,3-dichlorobenzene; Clc1cccc(Cl)c1; 3.53
+Testing; mobley_1178614; 2-chlorophenol; Oc1ccccc1Cl; 2.15
+Testing; mobley_1235151; 1-nitropentane; CCCCC[N+](=O)[O-]; 2.01
+Testing; mobley_1278715; hexachloroethane; ClC(Cl)(Cl)C(Cl)(Cl)Cl; 4.14
+Testing; mobley_129464; 1-butoxybutane; CCCCOCCCC; 3.21
+Testing; mobley_1328936; methyl 4-nitrobenzoate; COC(=O)c1ccc([N+](=O)[O-])cc1; 1.89
+Testing; mobley_1363784; 3,5-dimethylpyridine; Cc1cncc(C)c1; 1.78
+Testing; mobley_1449384; 1-isopropyl-4-methyl-benzene; Cc1ccc(C(C)C)cc1; 4.10
+Testing; mobley_1502181; nonan-2-one; CCCCCCCC(C)=O; 3.14
+Testing; mobley_1563176; butane-1-thiol; CCCCS; 2.28
+Testing; mobley_1708457; methylsulfonylmethane; CS(C)(=O)=O; -1.41
+Testing; mobley_1743409; diethyl butanedioate; CCOC(=O)CCC(=O)OCC; 1.20
+Testing; mobley_1755375; 2,6-dimethylphenol; Cc1cccc(C)c1O; 2.36
+Testing; mobley_1760914; 1-chloro-2-methyl-benzene; Cc1ccccc1Cl; 3.42
+Testing; mobley_1821184; 3-methyl-1H-indole; Cc1c[nH]c2ccccc12; 2.60
+Testing; mobley_1827204; hexanal; CCCCCC=O; 1.78
+Testing; mobley_1849020; 4-chlorophenyl)sulfanylmethylsulfanyl-diethoxy-thioxo-$l^{5}-phosphane; CCOP(=S)(OCC)SCSc1ccc(Cl)cc1; 5.33
+Testing; mobley_1855337; 1,2,3,5-tetrachlorobenzene; Clc1cc(Cl)c(Cl)c(Cl)c1; 4.56
+Testing; mobley_1858644; 2-phenylethanol; OCCc1ccccc1; 1.36
+Testing; mobley_1905088; benzyl bromide; BrCc1ccccc1; 2.92
+Testing; mobley_1944394; [2-benzhydryloxyethyl]-dimethyl-amine; CN(C)CCOC(c1ccccc1)c1ccccc1; 3.27
+Testing; mobley_1963873; N-methylacetamide; CNC(C)=O; -1.05
+Testing; mobley_1967551; acetaldehyde; CC=O; -0.34
+Testing; mobley_197466; 1-cyclopropylethanone; CC(=O)C1CC1; 0.49
+Testing; mobley_1987439; mesitylene; Cc1cc(C)cc(C)c1; 3.42
+Testing; mobley_2005792; biphenyl; c1ccc(-c2ccccc2)cc1; 3.98
+Testing; mobley_2123854; 4-hydroxybenzonitrile; N#Cc1ccc(O)cc1; 1.60
+Testing; mobley_2126135; 2-ethylphenol; CCc1ccccc1O; 2.47
+Testing; mobley_2197088; decane; CCCCCCCCCC; 5.01
+Testing; mobley_2213823; 3-methylpentane; CCC(C)CC; 3.60
+Testing; mobley_2245668; 2-methylpropan-1-ol; CC(C)CO; 0.76
+Testing; mobley_2261979; acenaphthene; c1cc2c3c(cccc3c1)CC2; 3.92
+Testing; mobley_2279874; trimethoxymethane; COC(OC)OC; 0.25
+Testing; mobley_2294995; ethyl formate; CCOC=O; 0.23
+Testing; mobley_2354112; 3-ethylphenol; CCc1cccc(O)c1; 2.40
+Testing; mobley_2402487; diethyl propanedioate; CCOC(=O)CC(=O)OCC; 0.96
+Testing; mobley_242480; 1,4-diamino-9,10-anthracenedione; Nc1ccc(N)c2c1C(=O)c1ccccc1C2=O; 3.00
+Testing; mobley_2457863; 3-methoxyphenol; COc1cccc(O)c1; 1.34
+Testing; mobley_2481002; trichloro(nitro)methane; O=[N+]([O-])C(Cl)(Cl)Cl; 2.09
+Testing; mobley_2484519; benzyl chloride; ClCc1ccccc1; 2.30
+Testing; mobley_2517158; 1-bromoheptane; CCCCCCCBr; 4.36
+Testing; mobley_2577969; pyrene; c1cc2ccc3cccc4ccc(c1)c2c34; 4.88
+Testing; mobley_2613240; 1,2-dimethoxybenzene; COc1ccccc1OC; 1.60
+Testing; mobley_2661134; 3-hydroxybenzonitrile; N#Cc1cccc(O)c1; 1.70
+Testing; mobley_2681549; 1,3,5-trichlorobenzene; Clc1cc(Cl)cc(Cl)c1; 4.19
+Testing; mobley_2751110; 4-nitrophenol; O=[N+]([O-])c1ccc(O)cc1; 1.91
+Testing; mobley_2789243; 3-chloropyridine; Clc1cccnc1; 1.33
+Testing; mobley_2850833; 2-hydroxybenzaldehyde; O=Cc1ccccc1O; 1.81
+Testing; mobley_2859600; styrene; C=Cc1ccccc1; 2.95
+Testing; mobley_2923700; 4-ethylphenol; CCc1ccc(O)cc1; 2.58
+Testing; mobley_2929847; 3-methylbutanoic acid; CC(C)CC(=O)O; 1.16
+Testing; mobley_2972345; 9,10-dihydroanthracene; c1ccc2c(c1)Cc1ccccc1C2; 4.25
+Testing; mobley_3040612; 1-ethyl-2-methylbenzene; CCc1ccccc1C; 3.53
+Testing; mobley_3047364; 2-N-ethyl-6-(methylsulfanyl)-4-N-(propan-2-yl)-1,3,5-triazine-2,4-diamine; CCNc1nc(NC(C)C)nc(SC)n1; 2.98
+Testing; mobley_3144334; 2,5-dimethylphenol; Cc1ccc(C)c(O)c1; 2.33
+Testing; mobley_3169935; 2-chloroaniline; Nc1ccccc1Cl; 1.90
+Testing; mobley_3183805; 1,2,4-trimethylbenzene; Cc1ccc(C)c(C)c1; 3.63
+Testing; mobley_3211679; cyclohexene; C1=CCCCC1; 2.86
+Testing; mobley_3259411; glycerol; OCC(O)CO; -1.76
+Testing; mobley_3264884; naphthalen-2-amine; Nc1ccc2ccccc2c1; 2.28
+Testing; mobley_3325209; trimethoxymethylbenzene; COC(OC)(OC)c1ccccc1; 2.27
+Testing; mobley_3378420; nonan-1-ol; CCCCCCCCCO; 3.77
+Testing; mobley_3452749; 1,2,3-trimethylbenzene; Cc1cccc(C)c1C; 3.66
+Testing; mobley_349850; 1-(p-tolyl)ethanone; CC(=O)c1ccc(C)cc1; 2.10
+Testing; mobley_3515580; 2-methoxyphenol; COc1ccccc1O; 1.32
+Testing; mobley_3525176; pentylbenzene; CCCCCc1ccccc1; 4.90
+Testing; mobley_3639400; 1-chlorobutane; CCCCCl; 2.64
+Testing; mobley_3663158; naphthalen-2-ol; Oc1ccc2ccccc2c1; 2.70
+Testing; mobley_3682850; cyclohexanone; O=C1CCCCC1; 0.81
+Testing; mobley_3686115; 1,1-diethoxyethane; CCOC(C)OCC; 0.84
+Testing; mobley_3709920; non-1-ene; C=CCCCCCCC; 5.15
+Testing; mobley_3715043; 1,4-dimethylnaphthalene; Cc1ccc(C)c2ccccc12; 4.37
+Testing; mobley_3727287; quinone; O=C1C=CC(=O)C=C1; 0.20
+Testing; mobley_3746675; isopropenylbenzene; C=C(C)c1ccccc1; 3.48
+Testing; mobley_3775790; 1-methylpyrrole; Cn1cccc1; 1.21
+Testing; mobley_3777264; 3-nitroaniline; Nc1cccc([N+](=O)[O-])c1; 1.37
+Testing; mobley_3843583; naphthalen-1-amine; Nc1cccc2ccccc12; 2.25
+Testing; mobley_397645; ethyl benzoate; CCOC(=O)c1ccccc1; 2.64
+Testing; mobley_3980099; 1,2,3-trichlorobenzene; Clc1cccc(Cl)c1Cl; 4.05
+Testing; mobley_4013838; 2,4-dimethylpentan-3-one; CC(C)C(=O)C(C)C; 1.86
+Testing; mobley_4059279; 1,4-dimethylpiperazine; CN1CCN(C)CC1; -0.40
+Testing; mobley_4188615; N,N-dimethylbenzamide; CN(C)C(=O)c1ccccc1; 0.62
+Testing; mobley_4218209; 4-methoxyaniline; COc1ccc(N)cc1; 0.95
+Testing; mobley_4219614; 1,2,3,4-tetrachlorobenzene; Clc1ccc(Cl)c(Cl)c1Cl; 4.60
+Testing; mobley_4252724; isobutylbenzene; CC(C)Cc1ccccc1; 4.68
+Testing; mobley_4291494; 2-chloropyridine; Clc1ccccn1; 1.22
+Testing; mobley_4395315; 4-chloro-3-methyl-phenol; Cc1cc(O)ccc1Cl; 3.10
+Testing; mobley_4494568; 1-bromo-4-methyl-benzene; Cc1ccc(Br)cc1; 3.42
+Testing; mobley_4561957; 2,3-dimethylbutane; CC(C)C(C)C; 3.42
+Testing; mobley_4584540; 2,6-dimethylpyridine; Cc1cccc(C)n1; 1.68
+Testing; mobley_4603202; 1-chloro-2-(2-chloroethoxy)ethane; ClCCOCCCl; 1.29
+Testing; mobley_4678740; m-bis(trifluoromethyl)benzene; FC(F)(F)c1cccc(C(F)(F)F)c1; 3.83
+Testing; mobley_4683624; 4-propylphenol; CCCc1ccc(O)cc1; 3.20
+Testing; mobley_4762983; hept-1-ene; C=CCCCCC; 3.99
+Testing; mobley_4780078; 2,4-dimethylphenol; Cc1ccc(O)c(C)c1; 2.30
+Testing; mobley_4936555; 2-(2,3-dimethylphenyl)aminobenzoic acid; Cc1cccc(Nc2ccccc2C(=O)O)c1C; 5.12
+Testing; mobley_4983965; ethylsulfanylethane; CCSCC; 1.95
+Testing; mobley_5026370; pyridine-4-carbonitrile; N#Cc1ccncc1; 0.46
+Testing; mobley_5063386; 2-nitrophenol; O=[N+]([O-])c1ccccc1O; 1.79
+Testing; mobley_5072416; 2-methoxyaniline; COc1ccccc1N; 1.18
+Testing; mobley_5094777; indane; c1ccc2c(c1)CCC2; 3.18
+Testing; mobley_5110043; 2,6-dimethylnaphthalene; Cc1ccc2cc(C)ccc2c1; 4.31
+Testing; mobley_5200358; aldicarb; CNC(=O)O/N=C\C(C)(C)SC; 1.13
+Testing; mobley_5263791; 1-ethylnaphthalene; CCc1cccc2ccccc21; 4.40
+Testing; mobley_5282042; Amitriptyline; CN(C)CCC=C1c2ccccc2CCc2ccccc21; 4.92
+Testing; mobley_5311804; phenylmethanol; OCc1ccccc1; 1.10
+Testing; mobley_5326154; N,N-dimethylaniline; CN(C)c1ccccc1; 2.31
+Testing; mobley_5393242; diazinon; CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1; 3.81
+Testing; mobley_5445548; cumene; CC(C)c1ccccc1; 3.66
+Testing; mobley_5467162; 4-tert-butylphenol; CC(C)(C)c1ccc(O)cc1; 3.31
+Testing; mobley_547634; 2,3-dimethylnaphthalene; Cc1cc2ccccc2cc1C; 4.40
+Testing; mobley_5499659; 1-methylimidazole; Cn1ccnc1; -0.06
+Testing; mobley_5665561; 1,3-dimethylnaphthalene; Cc1cc(C)c2ccccc2c1; 4.42
+Testing; mobley_5690766; hexa-1,5-diene; C=CCCC=C; 2.87
+Testing; mobley_5692472; N-methylmethanamine; CNC; -0.38
+Testing; mobley_5732611; 4-methyl-1H-imidazole; Cc1c[nH]cn1; 0.23
+Testing; mobley_5852491; methylcyclopentane; CC1CCCC1; 3.37
+Testing; mobley_5880265; 2-butoxyethanol; CCCCOCCO; 0.83
+Testing; mobley_588781; hexylbenzene; CCCCCCc1ccccc1; 5.52
+Testing; mobley_5935995; 2,2-dimethylbutane; CCC(C)(C)C; 3.82
+Testing; mobley_5948990; 2-nitroaniline; Nc1ccccc1[N+](=O)[O-]; 1.85
+Testing; mobley_5973402; 3-methylbutan-1-ol; CC(C)CCO; 1.16
+Testing; mobley_6060301; hexan-1-amine; CCCCCCN; 2.06
+Testing; mobley_6102880; diphenyl ether; c1ccc(Oc2ccccc2)cc1; 4.21
+Testing; mobley_6190089; 1,1,2,2-tetrachloroethane; ClC(Cl)C(Cl)Cl; 2.39
+Testing; mobley_6198745; 2,3-diacetoxypropyl acetate; CC(=O)OCC(COC(C)=O)OC(C)=O; 0.25
+Testing; mobley_6232400; pyridine-3-carbaldehyde; O=Cc1cccnc1; 0.29
+Testing; mobley_6248915; octan-1-amine; CCCCCCCCN; 2.90
+Testing; mobley_6257907; 3-chloroaniline; Nc1cccc(Cl)c1; 1.88
+Testing; mobley_632905; 1-(4-methoxyphenyl)ethanone; COc1ccc(C(C)=O)cc1; 1.74
+Testing; mobley_6353617; 1-(3-pyridyl)ethanone; CC(=O)c1cccnc1; 0.43
+Testing; mobley_6359135; carbon tetrachloride; ClC(Cl)(Cl)Cl; 2.83
+Testing; mobley_63712; 1-methylpiperidine; CN1CCCCC1; 1.30
+Testing; mobley_6430250; propylbenzene; CCCc1ccccc1; 3.69
+Testing; mobley_646007; pyrrolidine; C1CCNC1; 0.46
+Testing; mobley_6620221; carbofuran; CNC(=O)Oc1cccc2c1OC(C)(C)C2; 2.32
+Testing; mobley_6743808; 3,4-dimethylphenol; Cc1ccc(O)cc1C; 2.23
+Testing; mobley_6794076; 1-(4-pyridyl)ethanone; CC(=O)c1ccncc1; 0.48
+Testing; mobley_6804509; 1,2,4,5-tetrachlorobenzene; Clc1cc(Cl)c(Cl)cc1Cl; 4.64
+Testing; mobley_6988468; 2-ethylpyridine; CCc1ccccn1; 1.69
+Testing; mobley_7009711; 3,5-dimethylphenol; Cc1cc(C)cc(O)c1; 2.35
+Testing; mobley_7010316; cyclohexanol; OC1CCCCC1; 1.23
+Testing; mobley_7017274; phenanthrene; c1ccc2c(c1)ccc1ccccc12; 4.46
+Testing; mobley_7039935; naphthalen-1-ol; Oc1cccc2ccccc12; 2.85
+Testing; mobley_7066554; 4-chlorophenol; Oc1ccc(Cl)cc1; 2.39
+Testing; mobley_7142697; pentan-1-amine; CCCCCN; 1.49
+Testing; mobley_7176290; 3-nitrophenol; O=[N+]([O-])c1cccc(O)c1; 2.00
+Testing; mobley_718988; heptan-1-amine; CCCCCCCN; 2.57
+Testing; mobley_7200804; 2-fluorophenol; Oc1ccccc1F; 1.71
+Testing; mobley_7227357; pentan-3-ol; CCC(O)CC; 1.21
+Testing; mobley_7298388; 1-methyl-3-nitro-benzene; Cc1cccc([N+](=O)[O-])c1; 2.45
+Testing; mobley_7364468; 3,5,5-trimethylcyclohex-2-en-1-one; CC1=CC(=O)CC(C)(C)C1; 1.70
+Testing; mobley_7375018; undecan-2-one; CCCCCCCCCC(C)=O; 4.09
+Testing; mobley_7393673; methyl 4-methoxybenzoate; COC(=O)c1ccc(OC)cc1; 2.27
+Testing; mobley_7463408; N-(3,4-dichlorophenyl)propanimidic acid; CCC(=O)Nc1ccc(Cl)c(Cl)c1; 3.07
+Testing; mobley_7463799; 3-phenylpropan-1-ol; OCCCc1ccccc1; 1.88
+Testing; mobley_755351; 3-methoxyaniline; COc1cccc(N)c1; 0.93
+Testing; mobley_7735340; imidazole; c1c[nH]cn1; -0.08
+Testing; mobley_7814642; 1,2,4-trichlorobenzene; Clc1ccc(Cl)c(Cl)c1; 4.02
+Testing; mobley_7860938; N-butylbutan-1-amine; CCCCNCCCC; 2.83
+Testing; mobley_7893124; tert-butylbenzene; CC(C)(C)c1ccccc1; 4.11
+Testing; mobley_7943327; ethyl propanoate; CCOC(=O)CC; 1.21
+Testing; mobley_8048190; acetamide; CC(N)=O; -1.26
+Testing; mobley_8052240; 1-amino-9,10-anthracenedione; Nc1cccc2c1C(=O)c1ccccc1C2=O; 3.74
+Testing; mobley_8057732; 3-chlorophenol; Oc1cccc(Cl)c1; 2.50
+Testing; mobley_8207196; simazine; CCNc1nc(Cl)nc(NCC)n1; 2.18
+Testing; mobley_8337977; 4-methylpentan-2-one; CC(=O)CC(C)C; 1.31
+Testing; mobley_8427539; propionamide; CCC(N)=O; -0.66
+Testing; mobley_8449031; N,N-diethylethanamine; CCN(CC)CC; 1.45
+Testing; mobley_852937; 4-fluorophenol; Oc1ccc(F)cc1; 1.77
+Testing; mobley_8558116; 4-methylmorpholine; CN1CCOCC1; -0.33
+Testing; mobley_8578590; methylsulfinylmethane; CS(C)=O; -1.35
+Testing; mobley_859464; isobutyl acetate; CC(=O)OCC(C)C; 1.78
+Testing; mobley_8705848; N-isopropylpropan-2-amine; CC(C)NC(C)C; 1.40
+Testing; mobley_8723116; 4-chloroaniline; Nc1ccc(Cl)cc1; 1.83
+Testing; mobley_8739734; 3-methylbutan-2-one; CC(=O)C(C)C; 0.84
+Testing; mobley_8764620; pyridine-3-carbonitrile; N#Cc1cccnc1; 0.36
+Testing; mobley_8765203; isoprene; C=CC(=C)C; 2.42
+Testing; mobley_8789465; 2-iodophenol; Oc1ccccc1I; 2.65
+Testing; mobley_8798016; pyridine-4-carbaldehyde; O=Cc1ccncc1; 0.43
+Testing; mobley_8809190; butylbenzene; CCCCc1ccccc1; 4.38
+Testing; mobley_8809274; trifluoromethylbenzene; FC(F)(F)c1ccccc1; 3.01
+Testing; mobley_8883511; 2-methylbenzaldehyde; Cc1ccccc1C=O; 2.26
+Testing; mobley_9007496; naphthalen-1-yl N-methylcarbamate; CNC(=O)Oc1cccc2ccccc21; 2.36
+Testing; mobley_9015240; 1-bromooctane; CCCCCCCCBr; 4.89
+Testing; mobley_9114381; methyl 2-cyanoacetate; COC(=O)CC#N; -0.47
+Testing; mobley_9197172; oct-1-ene; C=CCCCCCC; 4.57
+Testing; mobley_9246215; penta-1,4-diene; C=CCC=C; 2.48
+Testing; mobley_9257453; 3,4-dichlorophenol; Oc1ccc(Cl)c(Cl)c1; 3.33
+Testing; mobley_9281946; diethoxy-(4-nitrophenoxy)-thioxo-$l^{5}-phosphane; CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1; 3.83
+Testing; mobley_929676; 1-bromohexane; CCCCCCBr; 3.80
+Testing; mobley_9414831; 1-methylnaphthalene; Cc1cccc2ccccc12; 3.87
+Testing; mobley_9565165; 9H-fluorene; c1ccc2c(c1)Cc1ccccc1-2; 4.18
+Testing; mobley_9624458; 1,3-dichloropropane; ClCCCCl; 2.00
+Testing; mobley_9626434; 2-ethoxyethanol; CCOCCO; -0.32
+Testing; mobley_9717937; 1-chloro-2-phenyl-benzene; Clc1ccccc1-c1ccccc1; 4.53
+Testing; mobley_9838013; 2-methylbutan-2-ol; CCC(C)(C)O; 0.89
+Testing; mobley_9942801; 1-ethyl-4-methyl-benzene; CCc1ccc(C)cc1; 3.63
+Testing; mobley_9974966; 2-isopropylsulfanylpropane; CC(C)SC(C)C; 2.84
